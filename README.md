@@ -13,9 +13,6 @@
 - [Steps to build custom standard cell and its integration](#steps-to-build-custom-standard-cell-and-its-integration)
 
 
-# Physical Design using OpenLANE with Sky130 PDK
-
-# Results only
 
 # RTL to GDSII flow:
 
