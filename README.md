@@ -1,4 +1,4 @@
-# OpenLANE using Sky130 PDK
+# OpenLANE using Sky130nm PDK
 
 
 ## Table of Contents
